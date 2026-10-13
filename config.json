@@ -1,0 +1,19 @@
+{
+  "scan_interval_seconds": 10,
+  "starting_balance": 100.0,
+  "paper_trade_size": 5.0,
+  "max_open_positions": 5,
+  "max_entry_age_seconds": 90,
+  "max_discovery_age_seconds": 180,
+  "take_profit_percent": 200.0,
+  "stop_loss_percent": 35.0,
+  "max_hold_minutes": 60,
+  "min_liquidity_usd": 10000,
+  "min_volume_5m_usd": 1000,
+  "min_transactions_5m": 8,
+  "min_buys_5m": 5,
+  "min_buy_ratio": 0.58,
+  "min_price_change_5m_percent": 0.0,
+  "max_price_change_5m_percent": 250.0,
+  "max_addresses_per_request": 30
+}
